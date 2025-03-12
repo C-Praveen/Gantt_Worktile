@@ -1,0 +1,19 @@
+ngx-gantt {
+    width: 100%;
+    height: 600px; /* Set the height as needed */
+    display: block;
+    margin: 0 auto;
+  }
+ 
+  ngx-gantt-table {
+    width: 100%;
+  }
+ 
+  ngx-gantt-column {
+    min-width: 100px; /* Adjust column width */
+  }
+
+.container{
+  margin-top: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+}
